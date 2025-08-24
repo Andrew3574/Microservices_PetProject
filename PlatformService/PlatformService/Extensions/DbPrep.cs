@@ -25,6 +25,8 @@ namespace PlatformService.Extensions
                     Console.WriteLine("platforms already exists");
                 }
             }
+
+            //some sick feature
         }
 
 
