@@ -1,13 +1,22 @@
-﻿using PlatformService.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using PlatformService.Data;
 using PlatformService.Models;
 
 namespace PlatformService.Extensions
 {
     public static class DbPrep
     {
+
+        public static void MigrateDb(this IApplicationBuilder app)
+        {
+            using var scope = app.ApplicationServices.CreateScope();
+            using var dbContext = scope.ServiceProvider.GetService<AppDbContext>();
+            dbContext.Database.Migrate();
+        }
+
         public static void PrepPlatforms(this IApplicationBuilder app)
         {
-            using(var scope=app.ApplicationServices.CreateScope())
+            using (var scope = app.ApplicationServices.CreateScope())
             {
                 using var dbContext = scope.ServiceProvider.GetService<AppDbContext>();
                 if (!dbContext.Platforms.Any())

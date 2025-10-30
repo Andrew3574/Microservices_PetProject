@@ -124,7 +124,6 @@ D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\obj\Debug\net9
 D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\obj\Debug\net9.0\staticwebassets.build.json.cache
 D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\obj\Debug\net9.0\staticwebassets.development.json
 D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\obj\Debug\net9.0\Platform.C7468C4A.Up2Date
 D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\obj\Debug\net9.0\PlatformService.dll
 D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\obj\Debug\net9.0\refint\PlatformService.dll
@@ -253,3 +252,12 @@ D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9
 D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\obj\Debug\net9.0\PlatformService.sourcelink.json
+D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9.0\appsettings.Production.json
+D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9.0\Google.Protobuf.dll
+D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9.0\Grpc.Core.Api.dll
+D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9.0\Grpc.Net.Client.dll
+D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9.0\Grpc.Net.Common.dll
+D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
+D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\SummerCourse\MicroservicesDemo\PlatformService\PlatformService\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll

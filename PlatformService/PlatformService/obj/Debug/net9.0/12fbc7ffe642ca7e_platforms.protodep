@@ -1,0 +1,2 @@
+obj\Debug\net9.0\protos/Platforms.cs \
+obj\Debug\net9.0\protos/PlatformsGrpc.cs: protos/platforms.proto
