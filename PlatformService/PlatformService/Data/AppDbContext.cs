@@ -11,7 +11,7 @@ namespace PlatformService.Data
         {
             
         }
-
+//inmem db
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.ConfigureWarnings(warns => warns.Ignore(InMemoryEventId.TransactionIgnoredWarning));
